@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *.pyo
 
+
+# Randoms
+ppt/
+
 # Database
 *.db
 
